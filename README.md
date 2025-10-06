@@ -1,4 +1,4 @@
-TItle: Inventory Reader
+__Title: Inventory Reader__
 
 Description:
 This program reads data from a text file for exploration by the user. The use is given options in the command line to play
